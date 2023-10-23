@@ -1,6 +1,9 @@
-# trading_app
+# TradeX
 
-A new Flutter project.
+TradeX is a mobile application created using Flutter.
+It is a trading app that allows the user to create orders/buy or sell stocks(Google dummy stock).
+The main screen displays the prices on which stocks are being exchanged, it also displays 3 buttons, one for buying,one for selling and the last one to look at the user profile.
+
 
 ## Getting Started
 
